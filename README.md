@@ -8,3 +8,4 @@ Full Stack Web Development with Flask - Linkedin Learning Course
 - [ ] Setting up and connecting to a database
 - [ ] Working with Flask-Security
 - [ ] Creating and testing REST APIs with Postman
+- [ ] Play and improve the project
