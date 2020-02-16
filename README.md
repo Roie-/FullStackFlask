@@ -1,5 +1,5 @@
 # Full_Stack_Flask
-Full Stack Web Development with Flask - Linkedin Learning Course
+Full Stack Web Development with Flask - Course Practice
 
 ### Learning objectives
 - [x] Creating and running a simple Flask app 
