@@ -4,7 +4,7 @@
 ### Learning objectives
 - [x] Creating and running a simple Flask app 
 - [x] Creating a Flask project
-- [ ] Working with templates
+- [x] Working with templates
 - [ ] Setting up and connecting to a database
 - [ ] Working with Flask-Security
 - [ ] Creating and testing REST APIs with Postman
