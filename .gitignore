@@ -113,4 +113,4 @@ dmypy.json
 .history
 
 # Misc
-config.py
+config.*
