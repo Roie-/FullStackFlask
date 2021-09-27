@@ -1,2 +1,2 @@
 app/* linguist-vendored
-.flaskenv linguist-vendored
+/.flaskenv linguist-vendored
